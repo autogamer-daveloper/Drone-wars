@@ -1,0 +1,4 @@
+    # Unity assets
+    *.unity3d binary
+    *.asset binary
+    *.prefab binary
